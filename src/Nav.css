@@ -1,0 +1,8 @@
+#navBar {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+#navBar > * {
+	list-style-type: none;
+}
